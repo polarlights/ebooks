@@ -1,6 +1,8 @@
 	ROOT
     └── linux
-          └── Linux-Command-Line-CN.pdf
+    │   └── Linux-Command-Line-CN.pdf
+    └── ruby
+        └── sinatra-book.pdf
 
-1 directory, 1 file
+2 directory, 2 files
 
